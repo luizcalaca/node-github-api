@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "ts-node src/server.ts",
-    "test": "mocha --require ts-node/register __tests__/**/*.test.ts --exit"
+    "test": "mocha --require ts-node/register __tests__/**/*.spec.ts --exit"
   },
   "keywords": [],
   "author": "Luiz Calaça",
