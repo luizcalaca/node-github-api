@@ -34,3 +34,7 @@ Username is a parameter necessary to get the repos
 
 1. Access (API)[https://node-github-api-production.up.railway.app/api/users/]
 2. Change for each desire route listed above.
+
+## CI/CD
+
+1. If you merge some branch to main ou commit directly, so Railway on server will get the changes and will do the deploy.
